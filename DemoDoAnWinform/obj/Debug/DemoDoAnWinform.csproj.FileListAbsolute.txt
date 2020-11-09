@@ -1,0 +1,13 @@
+C:\Users\Xuan Cuong\Documents\DemoDoAnWinform\DemoDoAnWinform\bin\Debug\DemoDoAnWinform.exe.config
+C:\Users\Xuan Cuong\Documents\DemoDoAnWinform\DemoDoAnWinform\bin\Debug\DemoDoAnWinform.exe
+C:\Users\Xuan Cuong\Documents\DemoDoAnWinform\DemoDoAnWinform\bin\Debug\DemoDoAnWinform.pdb
+C:\Users\Xuan Cuong\Documents\DemoDoAnWinform\DemoDoAnWinform\obj\Debug\DemoDoAnWinform.csprojAssemblyReference.cache
+C:\Users\Xuan Cuong\Documents\DemoDoAnWinform\DemoDoAnWinform\obj\Debug\DemoDoAnWinform.Login.resources
+C:\Users\Xuan Cuong\Documents\DemoDoAnWinform\DemoDoAnWinform\obj\Debug\DemoDoAnWinform.Properties.Resources.resources
+C:\Users\Xuan Cuong\Documents\DemoDoAnWinform\DemoDoAnWinform\obj\Debug\DemoDoAnWinform.csproj.GenerateResource.cache
+C:\Users\Xuan Cuong\Documents\DemoDoAnWinform\DemoDoAnWinform\obj\Debug\DemoDoAnWinform.csproj.CoreCompileInputs.cache
+C:\Users\Xuan Cuong\Documents\DemoDoAnWinform\DemoDoAnWinform\obj\Debug\DemoDoAnWinform.exe
+C:\Users\Xuan Cuong\Documents\DemoDoAnWinform\DemoDoAnWinform\obj\Debug\DemoDoAnWinform.pdb
+C:\Users\Xuan Cuong\Documents\DemoDoAnWinform\DemoDoAnWinform\obj\Debug\DemoDoAnWinform.Manager.resources
+C:\Users\Xuan Cuong\Documents\DemoDoAnWinform\DemoDoAnWinform\obj\Debug\DemoDoAnWinform.AccountProfile.resources
+C:\Users\Xuan Cuong\Documents\DemoDoAnWinform\DemoDoAnWinform\obj\Debug\DemoDoAnWinform.Admin.resources
